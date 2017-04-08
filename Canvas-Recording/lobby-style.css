@@ -1,0 +1,60 @@
+header {
+    text-align: center;
+}
+
+video {
+    object-fit: fill;
+    width: 30%;
+}
+
+button,
+input,
+select {
+    font-weight: normal;
+    padding: 2px 4px;
+    text-decoration: none;
+    display: inline-block;
+    text-shadow: none;
+    font-size: 16px;
+    outline: none;
+}
+
+.make-center {
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#room-urls {
+    text-align: center;
+    display: none;
+    background: #F1EDED;
+    margin: 15px -10px;
+    border: 1px solid rgb(189, 189, 189);
+    border-left: 0;
+    border-right: 0;
+}
+/*.prompt-bar {
+    background: rgb(255, 255, 255);
+    border: 9px solid rgb(216, 216, 216);
+    border-radius: 5px;
+    bottom: 0;
+    box-shadow: 0 0 5px, inset 0 0 2px;
+    display: none;
+    position: fixed;
+    right: 0;
+    width: 30%;
+    z-index: 100;
+}
+.prompt-bar #notification-header {
+    border-bottom: 1px solid rgb(213, 211, 211);
+    display: block;
+    padding: .1em .6em;
+}
+.prompt-bar #notification-text {
+    padding: .2em .6em;
+}
+.prompt-bar #controls {
+    background: rgb(175, 174, 174);
+    border: 1px solid gray;
+    text-align: center;
+}*/
